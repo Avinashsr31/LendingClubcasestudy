@@ -41,7 +41,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project is being done as part of Upgrad certification
 - References if any...
 - This project was based on [Avinashsr31](https://www.example.com).
 
